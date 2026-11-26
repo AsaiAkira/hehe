@@ -1,1 +1,1 @@
-2 https://github.com/AnkoUguisu/dr1/raw/refs/heads/main/dr1-tr-yama.zip
+1 https://github.com/AnkoUguisu/dr1/raw/refs/heads/main/dr1-tr-yama.zip
